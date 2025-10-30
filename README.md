@@ -18,4 +18,7 @@ Global sum problem in in parallelization
     - problem is that parallel calculation is changing the order of additions, this means that result may not match true sum
     - the problem gets worse as the problem size gets larger because the addition of the last value becomes a smaller and smaller part of the overall sum
     - even worst case is adding floating-poin numbers that are almost identical but with different signs (subtracting two nearly equal numbers leaves only few digits, are the rest is filled with numerical noise, making the resuls inaccurate)
-    
+
+
+Spreadsheet link: 
+https://docs.google.com/spreadsheets/d/1XL3hsft_AGyeej1GLWfLWHbKLWMNYLvGjUrX-FXlxrI/edit?usp=sharing

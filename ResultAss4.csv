@@ -1,0 +1,73 @@
+Method,Error (absolute diff),Runtime (seconds)
+Long Double Sum,7.105e-15,0.000008
+Pairwise Sum,0,0.000013
+Kahan Sum,0,0.000012
+Knuth Sum,0,0.000023
+Long Double Sum,1.421e-14,0.000009
+Pairwise Sum,0,0.000015
+Kahan Sum,0,0.000015
+Knuth Sum,0,0.000031
+Long Double Sum,0,0.000017
+Pairwise Sum,0,0.000023
+Kahan Sum,0,0.000029
+Knuth Sum,0,0.000060
+Long Double Sum,5.684e-14,0.000040
+Pairwise Sum,0,0.000054
+Kahan Sum,0,0.000073
+Knuth Sum,0,0.000153
+Long Double Sum,0,0.000076
+Pairwise Sum,0,0.000148
+Kahan Sum,0,0.000115
+Knuth Sum,0,0.000240
+Long Double Sum,0,0.000159
+Pairwise Sum,0,0.000101
+Kahan Sum,0,0.000237
+Knuth Sum,0,0.000480
+Long Double Sum,9.095e-13,0.000320
+Pairwise Sum,0,0.000259
+Kahan Sum,0,0.000467
+Knuth Sum,0,0.000968
+Long Double Sum,4.547e-12,0.000628
+Pairwise Sum,0,0.000603
+Kahan Sum,0,0.000939
+Knuth Sum,0,0.001942
+Long Double Sum,-1.091e-11,0.001324
+Pairwise Sum,0,0.001104
+Kahan Sum,0,0.001916
+Knuth Sum,0,0.003947
+Long Double Sum,-5.821e-11,0.002713
+Pairwise Sum,0,0.002495
+Kahan Sum,0,0.003867
+Knuth Sum,0,0.008199
+Long Double Sum,-7.276e-10,0.004407
+Pairwise Sum,0,0.005216
+Kahan Sum,0,0.008519
+Knuth Sum,0,0.016173
+Long Double Sum,2.809e-09,0.009491
+Pairwise Sum,0,0.009289
+Kahan Sum,0,0.015296
+Knuth Sum,0,0.031529
+Long Double Sum,5.821e-10,0.017723
+Pairwise Sum,0,0.019477
+Kahan Sum,0,0.030644
+Knuth Sum,0,0.063073
+Long Double Sum,-6.717e-08,0.033188
+Pairwise Sum,0,0.047209
+Kahan Sum,0,0.061698
+Knuth Sum,0,0.125670
+Long Double Sum,-5.378e-08,0.066897
+Pairwise Sum,0,0.095235
+Kahan Sum,0,0.121678
+Knuth Sum,0,0.251052
+Long Double Sum,9.865e-07,0.131296
+Pairwise Sum,0,0.185856
+Kahan Sum,0,0.242590
+Knuth Sum,0,0.501613
+Long Double Sum,6.827e-07,0.260237
+Pairwise Sum,0,0.376868
+Kahan Sum,0,0.484626
+Knuth Sum,0,1.002962
+Long Double Sum,-8.792e-07,0.536733
+Pairwise Sum,0,0.743320
+Kahan Sum,0,0.968618
+Knuth Sum,0,2.004865
