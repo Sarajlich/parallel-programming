@@ -1,0 +1,46 @@
+Running stencil_opt2...
+./stencil_opt2
+Running with 4 thread(s)
+Iter 0
+Iter 1000
+Iter 2000
+Iter 3000
+Iter 4000
+Iter 5000
+Iter 6000
+Iter 7000
+Iter 8000
+Iter 9000
+Timing is init 0.042376 flush 73.151529 stencil 141.132880 total 214.342856
+
+
+Running stencil_opt4...
+./stencil_opt4
+Running with 4 thread(s)
+Iter 0
+Iter 1000
+Iter 2000
+Iter 3000
+Iter 4000
+Iter 5000
+Iter 6000
+Iter 7000
+Iter 8000
+Iter 9000
+Timing is init 0.026191 flush 71.423176 stencil 143.849717 total 215.331577
+
+
+Running stencil_opt6...
+./stencil_opt6
+Running with 4 thread(s)
+Iter 0
+Iter 1000
+Iter 2000
+Iter 3000
+Iter 4000
+Iter 5000
+Iter 6000
+Iter 7000
+Iter 8000
+Iter 9000
+Timing is init 0.029920 flush 71.147247 stencil 140.984563 total 212.881989
