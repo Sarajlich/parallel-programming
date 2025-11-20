@@ -28,18 +28,18 @@ if (a_local == NULL) {
 
 ***Screenshots:***
 
-![Run with 2 processes](images/ss_np2.png)
+![Run with 2 processes](ss_np2.png)
 - global array is at rank 0
 - both partial sums are combined with MPI_Reduce
 - total sum is 50,005,000.00
 - scatter and reduce timings are very small
 
-![Run with 4 processes](images/ss_np4.png)
+![Run with 4 processes](ss_np4.png)
 - timing increases a bit due to more processes communication
 - result is still 50005000.00
 
-![Run with 8 processes - part 1](images/ss_np8p1.png)
-![Run with 8 processes - part 2](images/ss_np8p2.png)
+![Run with 8 processes - part 1](ss_np8p1.png)
+![Run with 8 processes - part 2](ss_np8p2.png)
 - 8 processes means that each process will recieve 1250 elements
 - scatter timing is a bit higher
 - computing time decreases (each rank is processing less elements)
