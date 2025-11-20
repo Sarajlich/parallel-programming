@@ -1,0 +1,183 @@
+vboxuser@sara2:~/Desktop/Muhamed-Sarajlic-Parallel-Programming-Assignments$ mpirun -np 2 ./PartialSum
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000918 seconds
+  Reduce operation:  0.004353 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.001578 seconds
+  Reduce operation:  0.001002 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+
+
+
+
+
+
+vboxuser@sara2:~/Desktop/Muhamed-Sarajlic-Parallel-Programming-Assignments$ mpirun -np 4 ./PartialSum
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000037 seconds
+  Reduce operation:  0.000005 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000148 seconds
+  Reduce operation:  0.000009 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000060 seconds
+  Reduce operation:  0.000005 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000038 seconds
+  Reduce operation:  0.000007 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+
+
+
+
+
+
+vboxuser@sara2:~/Desktop/Muhamed-Sarajlic-Parallel-Programming-Assignments$ mpirun -np 8 ./PartialSum
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000484 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000038 seconds
+  Reduce operation:  0.000010 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000142 seconds
+  Reduce operation:  0.000007 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000039 seconds
+  Reduce operation:  0.000006 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000199 seconds
+  Reduce operation:  0.000011 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000049 seconds
+  Reduce operation:  0.000006 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000037 seconds
+  Reduce operation:  0.000005 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000044 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000043 seconds
+  Reduce operation:  0.000009 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
+Main process initializing array of 10000 elements
+Array initialization complete
+
+Rank 0: processed 10000 elements, partial sum = 50005000.00, compute time = 0.000027 sec
+
+========================================
+Timing Results:
+  Scatter operation: 0.000059 seconds
+  Reduce operation:  0.000006 seconds
+
+Final Results:
+  Total sum across all processes: 50005000.00
