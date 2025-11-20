@@ -3,8 +3,7 @@
 ***Code:***
 
 - MPI_Allgather:
-used to to gather lolcal array size from all processes
-this allowed the process to know how many elements each rank will recieve and where their data begins in the global array
+used to to gather lolcal array size from all processes, this allowed the process to know how many elements each rank will recieve and where their data begins in the global array
 
 - MPI_Scatterv:
 distributing chunks of global array from 0 to all ranks
