@@ -1,0 +1,4 @@
+# Large generated files
+temperature_data.csv
+*.dat
+output_serial.dat
