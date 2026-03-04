@@ -1,6 +1,6 @@
 # Muhamed-Sarajlic-Parallel-Programming-Assignments
 
-Before fixed code: 
+Before fixed code:  
 
 student@itcenter-lab128:~/Desktop/Muhamed-Sarajlic-Parallel-Programming-Assignments$ make valgrind
 valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes ./assignment
